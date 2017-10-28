@@ -1,0 +1,6 @@
+{ 
+	"shader" : "shader.model",
+	
+	"g_MeshTexture" : "textures/models/money/m1.png", 
+	 
+}

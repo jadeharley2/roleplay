@@ -1,0 +1,10 @@
+{
+	"#include" : "model.json",
+	
+	"name" : "money.m1", 
+	"input" : ["m1.smd"],
+	"swapTexCoordY" : 1,
+	"materialsdirectory": "tex/" , 
+	"physics" : { "model" : "m1.smd"}, 
+	"transform" : { "sca": 0.1}, 
+}
